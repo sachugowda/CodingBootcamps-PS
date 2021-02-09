@@ -1,4 +1,4 @@
-# CodingBootcamps-Problem Solving Using C
+# CodingBootcamps-Problem Solving Using C : Begginers Level
 This programs enhances coding skills for the enrtry level studensts.
 
 <h2> Data Types </h2>
