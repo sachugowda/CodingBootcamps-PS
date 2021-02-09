@@ -1,4 +1,4 @@
-# CodingBootcamps-Problem Solving Using C : Begginers Level
+# CodingBootcamps-Problem Solving Using C : Begginers Level - Day 1 Hands-on Practice 
 This programs enhances coding skills for the enrtry level studensts.
 
 <h2> Data Types </h2>
