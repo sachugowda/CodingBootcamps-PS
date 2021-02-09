@@ -3,7 +3,7 @@
 #include&lt;stdio.h&gt;
 int main()
 {
-//Edit below this line
+//Replace Your Code and values in bellow two lines
 int "Replace Variable Name" = "Your age";
 float "Replace Varibale name" = "Your Weight";
 
