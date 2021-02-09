@@ -5,7 +5,7 @@ the word "TYPE" */
 int main()
 {
 TYPE num = 100;
-TYPE letter = A;
+TYPE letter = 'A';
 /* Printing num and charecter value */
 printf("%d\n",num);
 printf("%c\n",letter);
