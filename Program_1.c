@@ -1,5 +1,5 @@
 /* Find the suitable data type for the below values and write them by replacing
-the word &quot;TYPE&quot;. */
+the word "TYPE" */
 
 #include<stdio.h>
 int main()
