@@ -6,7 +6,7 @@ This programs enhances coding skills for the enrtry level studensts.
 the word &quot;TYPE&quot;.
 
 <h2> Variables </h2>
-<b> Program 2 </h2> :- Declare two variables to store age and weight.
+<b> Program 2 </b> :- Declare two variables to store age and weight. and also assgin your age and weight values to those variables
 (Note: The variable name for age should be age and weight should be
 weight)
 
