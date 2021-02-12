@@ -18,8 +18,8 @@ weight)
 10 and 20 respectively. And then print the value of L1 and L2 one by one
 using single printf statement.
 
-<h2> Program 5: Swap two Numbers </h2>
-<p>You will be given two numbers stored in variables 'a' and 'b'. Your task is to swap the values present and print them.<br>
+<h2> Swap two Numbers </h2>
+<p><b> Program 5:  </b>You will be given two numbers stored in variables 'a' and 'b'. Your task is to swap the values present and print them.<br>
 Example<br>
 input:<br>
  4 5<br>
