@@ -18,7 +18,4 @@ weight)
 10 and 20 respectively. And then print the value of L1 and L2 one by one
 using single printf statement.
 
-<h2> Scanf function </h2>
-<b> Program 5 </b> :- The given C program doesn&#39;t work as expected. You need to correct the below program and make it executable.
-(Note: It should able to read an integer from the user and print it)
 
