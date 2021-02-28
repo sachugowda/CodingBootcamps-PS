@@ -7,8 +7,8 @@ int main()
 TYPE num = 100;
 TYPE letter = 'A';
 /* Printing num and charecter value */
-printf("%d\n",num);
-printf("%c\n",letter);
+printf("The number is %d\n",num);
+printf("The letter is %c\n",letter);
 /* if you done creerct you will get bellow message */
 printf("Good Job...");
 return 0;
